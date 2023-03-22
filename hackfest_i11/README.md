@@ -1,8 +1,6 @@
 ### T-HUB-hackfest-submission
 code anomaly detection tool in git repos
-Dependencies managed by 
-#NIX
-
+Dependencies managed by NIX
 
 
 
